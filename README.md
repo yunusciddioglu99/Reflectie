@@ -2,7 +2,7 @@
 Naël
 
 Wat heb ik met deze lessen nieuw geleerd?
-<<<<<<< HEAD
+
 Ik heb geleerd om branches te maken en te veranderen.
 
 #
